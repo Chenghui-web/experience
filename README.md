@@ -15,6 +15,7 @@ Name | Academy | score
     <td style="color:red">asdasd</td>
 </tr>
 </table>
+
 ```javascript
 
 var a=78;
