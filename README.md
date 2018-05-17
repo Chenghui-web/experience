@@ -9,14 +9,21 @@
 |saadasad|
 ### sdfsdf
 
-Name | Academy | score 
+
 <table>
 <tr>
     <td style="color:red">asdasd</td>
 </tr>
-</table>
-```js
+    <tr>
+    <td style="color:red">asdasd</td>
+</tr>
+</table>  
+
+
+```javascript
+
 var a=78;
+
 ```
 
 asdasdpasdp ```lkeep``` asdsad
